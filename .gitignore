@@ -1,3 +1,5 @@
 *.py
 /data/MNIST_Data/
 /data/CIFAR_10/
+/data/mnist_png/
+*.ipynb_checkpoints
