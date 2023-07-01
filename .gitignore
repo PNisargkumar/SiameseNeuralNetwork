@@ -1,2 +1,3 @@
 *.py
-data/MNIST_Data/
+data/Gujarati/
+/.vscode
