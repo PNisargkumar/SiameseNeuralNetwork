@@ -1,3 +1,1 @@
-*.py
-/data/MNIST_Data/
-/data/CIFAR_10/
+/.vscode
